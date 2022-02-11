@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.4.4",
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "axios": "^0.18.0",
     "codemirror": "^5.46.0",
     "element-ui": "^2.8.2",
