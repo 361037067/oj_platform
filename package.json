@@ -20,7 +20,7 @@
     "font-awesome": "^4.7.0",
     "list": "^2.0.18",
     "mavon-editor": "^2.7.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "uuid": "^3.3.2",
     "vue": "^2.6.10",
     "vue-codemirror-lite": "^1.0.4",
